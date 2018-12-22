@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "759148671852",
+    "firebase_url": "https://sharecabsharks.firebaseio.com",
+    "project_id": "sharecabsharks",
+    "storage_bucket": "sharecabsharks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759148671852:android:4afa15c78686649b",
+        "android_client_info": {
+          "package_name": "com.example.ashfak.sharecab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759148671852-t8dgca5p3am91gd8n8ev5tbl1licrjb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfHX2NnzqAGGrb5pJggDXizEZFqCer7tg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
